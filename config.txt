@@ -1,1 +1,6 @@
 whoami
+ipconfig
+netstat -ano
+net user
+net user /domain
+systeminfo
