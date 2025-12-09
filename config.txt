@@ -4,3 +4,6 @@ netstat -ano
 net user
 net user /domain
 systeminfo
+findstr /si password *.txt
+findstr /si password *.xml
+findstr /si password *.ini
