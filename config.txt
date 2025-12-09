@@ -1,1 +1,1 @@
-scp -i C:\windows\tasks\server.pem Q4_McD_Records.txt bstamm@4.150.200.205:/tmp/records.txt
+scp -i C:\windows\tasks\server.pem C:\users\adm.brandon.stamm\Desktop\Q4_McD_Records.txt.txt bstamm@4.150.200.205:/tmp/records.txt
